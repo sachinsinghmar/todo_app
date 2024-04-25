@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Bright",
+        "image": [
+            "assets/images/snow.jpg",
+            "assets/images/snow.jpg",
+            "assets/images/snow.jpg",
+            "assets/images/snow.jpg"
+        ]
+    },
+    {
+        "name": "Dark",
+        "image": [
+            "assets/images/darkw.jpeg",
+            "assets/images/darkw.jpeg",
+            "assets/images/darkw.jpeg",
+            "assets/images/darkw.jpeg"
+        ]
+    },
+    {
+        "name": "Solid Colors",
+        "image": [
+            "assets/images/solidw.jpg",
+            "assets/images/solidw.jpg",
+            "assets/images/solidw.jpg",
+            "assets/images/solidw.jpg"
+        ]
+    },
+    {
+        "name": "My Photos",
+        "image": [
+            "assets/images/darkw.jpeg",
+            "assets/images/darkw.jpeg",
+            "assets/images/darkw.jpeg",
+            "assets/images/darkw.jpeg"
+        ]
+    }
+]

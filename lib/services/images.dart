@@ -1,0 +1,34 @@
+class Myimage {
+  static const whatshapp = "assets/images/whatshapp.png";
+  static const linkeddevice = "assets/images/linkeddevice.png";
+  static const vector = "assets/images/testtube.png";
+  static const qr = "assets/images/qr.png";
+  static const script = "assets/images/script.png";
+  static const paymentmethod = "assets/images/paymentmethod.png";
+  static const bhim = "assets/images/bhim.png";
+  static const upi = "assets/images/upi.png";
+  static const rupee = "assets/images/rupee.png";
+  static const security = "assets/images/security.png";
+  static const bankaccount = "assets/images/bankacoount.png";
+  static const profile = "assets/images/profile.png";
+  static const verification = "assets/images/verification.png";
+  static const change_number = "assets/images/change.png";
+  static const request = "assets/images/request.png";
+  static const chat_theme = "assets/images/chattheme.png";
+  static const backgroundsplash = "assets/images/backgroundsplash.png";
+  static const aron = "assets/images/aron.png";
+  static const abelson = "assets/images/abelson.png";
+  static const cathor = "assets/images/cathor.png";
+  static const steven = "assets/images/steven.png";
+  static const franklin = "assets/images/franklin.png";
+  static const henry = "assets/images/henry.png";
+  static const jacob = "assets/images/Jacob.png";
+  static const lilly = "assets/images/lilly.png";
+  static const status = "assets/images/status.png";
+  static const sableson = "assets/images/sabelson.png";
+  static const scathor = "assets/images/cathor.png";
+  static const ssetven = "assets/images/ssteven.png";
+  static const sfrankilin = "assets/images/sfranklin.png";
+  static const shenry = "assets/images/shenry.png";
+  static const sjacob = "assets/images/sjacob.png";
+}

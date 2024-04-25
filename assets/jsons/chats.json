@@ -1,0 +1,50 @@
+[
+    {
+        "id": "chat_1",
+        "type": "text",
+        "content": "Lorem ipsum",
+        "time": "2023-01-01T09:13",
+        "isSendByMe": true,
+        "chatRoomId": "1"
+    },
+    {
+        "id": "chat_2",
+        "type": "text",
+        "content": "Lorem ipsum",
+        "time": "2023-01-01T09:13",
+        "isSendByMe": false,
+        "chatRoomId": "1"
+    },
+    {
+        "id": "chat_3",
+        "type": "text",
+        "content": "Lorem ipsum",
+        "time": "2023-01-01T09:13",
+        "isSendByMe": false,
+        "chatRoomId": "1"
+    },
+    {
+        "id": "chat_4",
+        "type": "text",
+        "content": "Lorem ipsum",
+        "time": "2023-01-01T09:13",
+        "chatRoomId": "1",
+        "isSendByMe": true
+    },
+    {
+        "id": "chat_5",
+        "type": "text",
+        "content": "Lorem ipsum",
+        "time": "2023-01-01T09:13",
+        "chatRoomId": "1",
+        "isSendByMe": true
+    },
+    {
+        "id": "chat_6",
+        "type": "text",
+        "content": "Lorem ipsum",
+        "time": "2023-01-01T09:13",
+        "chatRoomId": "1",
+        "isSendByMe": false
+    }
+]

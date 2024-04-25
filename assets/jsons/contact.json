@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "name": "Aron",
+        "userstatus": "online",
+        "subtitle": "Lorem ipsum dolor sit",
+        "image": "assets/images/aron.png",
+        "time": "4:50PM"
+    },
+    {
+        "id": "2",
+        "name": "Abelson",
+        "userstatus": "online",
+        "subtitle": "Curabitur finibus dictum nisl, ac sagitt...",
+        "image": "assets/images/abelson.png",
+        "time": "Yesterday"
+    },
+    {
+        "id": "3",
+        "name": "Cathor",
+        "userstatus": "online",
+        "subtitle": "Curabitur finibus dictum nisl, ac sagitt...",
+        "image": "assets/images/cathor.png",
+        "time": "Yesterday"
+    },
+    {
+        "id": "4",
+        "name": "Steven",
+        "userstatus": "online",
+        "subtitle": "Document.pdf (1 page)",
+        "image": "assets/images/steven.png",
+        "time": "23/06/2022"
+    },
+    {
+        "id": "5",
+        "name": "Franklin",
+        "userstatus": "online",
+        "subtitle": "Morbi viverra urna sit amet nunc",
+        "image": "assets/images/franklin.png",
+        "time": "23/06/2022"
+    },
+    {
+        "id": "6",
+        "name": "Henry Ward",
+        "userstatus": "online",
+        "subtitle": "Morbi rhoncus nunc sit amet felis blandit co....",
+        "image": "assets/images/henry.png",
+        "time": "19/06/2022"
+    },
+    {
+        "id": "7",
+        "name": "Jacob Jones",
+        "userstatus": "online",
+        "subtitle": "Curabitur finibus dictum nisl, ac sagitt...",
+        "image": "assets/images/jacob.png",
+        "time": "19/06/2022"
+    },
+    {
+        "id": "8",
+        "name": "Lilly",
+        "userstatus": "online",
+        "subtitle": "Curabitur finibus dictum nisl, ac sagitt...",
+        "image": "assets/images/lilly.png",
+        "time": "17/06/2022"
+    }
+]
